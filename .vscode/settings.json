@@ -1,0 +1,36 @@
+{
+    "dotnet.defaultSolution": "Meta_MR_Object_Detection.sln",
+    "editor.codeLens": true,
+    "editor.inlayHints.enabled": "on",
+    "editor.parameterHints.enabled": true,
+    "dotnet.codeLens.enableReferencesCodeLens": true,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.inlineSuggest.enabled": false,
+    "files.exclude": {
+        "**/.DS_Store": true, "**/.git": true, "**/.vs": true,
+        "**/*.booproj": true, "**/*.pidb": true, "**/*.suo": true,
+        "**/*.user": true, "**/*.userprefs": true, "**/*.unityproj": true,
+        "**/*.dll": true, "**/*.exe": true, "**/*.pdf": true,
+        "**/*.png": true, "**/*.psd": true, "**/*.tga": true,
+        "**/*.fbx": true, "**/*.FBX": true, "**/*.obj": true, "**/*.OBJ": true,
+        "**/*.asset": true, "**/*.mat": true, "**/*.meta": true,
+        "**/*.prefab": true, "**/*.unity": true,
+        "build/": true, "Build/": true, "Library/": true, "library/": true,
+        "obj/": true, "Obj/": true, "Logs/": true, "logs/": true,
+        "ProjectSettings/": true, "UserSettings/": true, "temp/": true, "Temp/": true
+    },
+    "files.associations": {
+        "*.asset": "yaml", "*.meta": "yaml", "*.prefab": "yaml", "*.unity": "yaml"
+    },
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.patterns": {
+        "*.sln": "*.csproj", "*.slnx": "*.csproj"
+    },
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active"
+}
