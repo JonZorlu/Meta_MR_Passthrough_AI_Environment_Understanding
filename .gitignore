@@ -27,7 +27,15 @@ sysinfo.txt
 *.unitypackage
 *.app
 
-# Custom ignores for this project
+# Experimental / Unused folders
 Meta_MR_Object_Detection/Assets/MCPForUnity/
-gemini.md
-Quest 3S Passthrough Object Detection — Agent Starter Guide.md
+External/
+Meta_MR_Object_Detection/Assets/External/
+
+# IDE & Editor
+.vscode/
+.editorconfig
+omnisharp.json
+
+# Unity Specific additions
+.utmp/

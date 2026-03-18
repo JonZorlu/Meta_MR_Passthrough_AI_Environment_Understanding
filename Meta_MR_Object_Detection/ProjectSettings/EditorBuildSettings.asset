@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/BB_Passthrough_Cam_Next.unity
+    guid: ddfd6baa5ccfc5a4db7ceae65a813929
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 948d34f60fd06b54db721228dbe4e485, type: 2}
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
