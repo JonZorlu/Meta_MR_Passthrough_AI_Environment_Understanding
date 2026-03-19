@@ -10,7 +10,7 @@ This project showcases an experimental mixed-reality prototype developed for the
 > *Real-time detection and anchoring of the Gallery UI using Local Inference.*
 <img src="Documentation/demo1.gif" alt="Smart UI Spawning" width="800"/>
 
-### Feature: Microgesture Card Interface
+### Feature: Microgesture Hand Interactions
 > *Using hand microgestures to pull up, restore, and sort through the diegetic UI.*
 <img src="Documentation/demo2.gif" alt="Microgesture Navigation" width="800"/>
 
