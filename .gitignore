@@ -34,6 +34,7 @@ Meta_MR_Object_Detection/Assets/External/
 
 # IDE & Editor
 .vscode/
+.agent/
 .editorconfig
 omnisharp.json
 
